@@ -1,0 +1,7 @@
+{
+  "name": "taleemabad",
+  "private": true,
+  "dependencies": {
+    "groq-sdk": "^0.37.0"
+  }
+}
